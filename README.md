@@ -47,7 +47,7 @@ Foi criado o arquivo em PDF com os gráficos criados no Power Bi, mostrando as d
 
 # Texto de apoio 2
 
-Considere para sua análise:
+Considere para a análise:
 
 Análise de custos imobiliários em ambas as cidades.
 
